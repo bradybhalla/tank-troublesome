@@ -2,7 +2,7 @@
 
 This is a clone of the game "Tank Trouble."  I made this because the collisions in the original game never seemed to work correctly, so I gave it a try myself.  This version has more consistent (and fairly optimized) collision handling and random maze generation, but does not yet have any powerups.
 
-Play the game [here](https://bradybhalla.github.io/tank-troublesome)!
+Open "index.html" to play the game.
 
 Controls:
  - Tank 1: ESDF to move, Q to fire
